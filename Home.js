@@ -18,6 +18,4 @@ const Home = () => {
   );
 };
 
-Home = Home;
-
 export default Home;

@@ -1,7 +1,7 @@
 // https://raw.githubusercontent.com/benevbright/react-navigation-sample/master/src/LoginScreen.js
 
 import React, {useEffect} from 'react';
-import {FlatList, View, TouchableOpacity, Text, Image} from 'react-native';
+import {View, TouchableOpacity, Text} from 'react-native';
 
 const Home = () => {
   useEffect(() => {
@@ -19,3 +19,5 @@ const Home = () => {
 };
 
 export default Home;
+
+HomeScreen = Home;

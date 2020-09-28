@@ -12,7 +12,7 @@ const Home = () => {
       <TouchableOpacity
         onPress={() => this.props.navigation.navigate('login')}
         style={{alignSelf: 'center'}}>
-        <Text style={{fontSize: 36}}>Moas</Text>
+        <Text style={{fontSize: 36}}>Check Lv1 second</Text>
       </TouchableOpacity>
     </View>
   );

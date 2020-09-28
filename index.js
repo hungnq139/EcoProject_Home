@@ -20,4 +20,4 @@ const Home = () => {
 
 export default Home;
 
-HomeScreen = Home;
+global.HomeScreen = Home;

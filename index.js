@@ -12,7 +12,7 @@ const Home = ({navigation}) => {
       <TouchableOpacity
         onPress={() => navigation.navigate('Info')}
         style={{alignSelf: 'center'}}>
-        <Text style={{fontSize: 36}}>Check Lv2</Text>
+        <Text style={{fontSize: 36}}>Check Lv3</Text>
       </TouchableOpacity>
     </View>
   );
